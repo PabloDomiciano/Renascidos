@@ -1,0 +1,17 @@
+Qual a melhor equipe (4 pessoas) para uma empresa?
+
+Pleno F, 
+Pleno G,
+Dev C, 
+Dev D. 
+
+Tanto o pleno F, como o pleno G fazem parte de um conjunto de habilidades dispostas como Tecnico e Interpessoal,
+ajudando a equipe com pontos de vistas diferente, não sobrecarregando nenhum dos dois. Enquanto um leva uma 
+conversa direta com o cliente, o outro pode guiar a equipe de modo que consigam atingir os objetivos do projeto. 
+Dev's como conjunto que já possuem uma noção de produção deprojeto, assim o Dev C também pode se aperfeiçoar 
+diretamente com os objetivos realizados pela equipe.
+
+O que essa pergunta tem a ver com a nossa disciplina?
+
+Uma forma de fazer uma reflexão entre os alunos da disciplina de DDM, com base na ideia de que um profissional da área
+não basta ter dominío de programação sendo necessário certa habilidade interpessoal e resolução de problemas. 
